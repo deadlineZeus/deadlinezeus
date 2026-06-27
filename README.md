@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=140&section=header&text=Rajdeep%20Ray&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00BCD4&center=true&vCenter=true&repeat=true&width=860&lines=Aspiring+Data+Analyst+%2F+Data+Scientist;Excel+%7C+Power+BI+%7C+Power+Query+%7C+DAX;Data+Visualization+%7C+KPI+Dashboards;Turning+Raw+Data+into+Decisions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00BCD4&center=true&vCenter=true&repeat=true&width=860&lines=Data+Analyst+%2F+Aspiring+Data+Engineer;Excel+%7C+Power+BI+%7C+Power+Query+%7C+DAX;Java+%7C+Python+%7C+Jupyter+%7C+Google+Colab;Turning+Raw+Data+into+Decisions)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,17 +10,17 @@
 
 ## About Me
 
-I am an aspiring **Data Analyst and Data Scientist** focused on transforming raw, unstructured datasets into structured, decision-ready insights. My core expertise spans end-to-end analytical pipelines — from data ingestion and transformation with **Power Query**, to relational modelling in **Power Pivot**, and interactive dashboard development in both **Microsoft Excel** and **Power BI**.
+I am a **Data Analyst and Aspiring Data Engineer** focused on transforming raw, unstructured datasets into structured, decision-ready insights. My core expertise spans end-to-end analytical pipelines — from data ingestion and transformation with **Power Query**, to relational modelling in **Power Pivot**, and interactive dashboard development in both **Microsoft Excel** and **Power BI**.
 
-I am actively expanding into Python and SQL to complement my BI work with scalable, programmatic workflows.
+I hold an **Oracle Certified Java Foundations Associate (1Z0-811)** certification and am actively expanding into Python and SQL to complement my BI work with scalable, programmatic workflows.
 
 **Currently Working On:**
 
 - Power BI dashboards with DAX measures, data modelling, and KPI storytelling
 - Sales and sector-specific analysis (EdTech, retail, healthcare)
-- Strengthening Python skills with Pandas, Matplotlib, and Seaborn
+- Strengthening Python and data engineering fundamentals
 
-**Actively Seeking:** Full-Time Data Analyst / Data Scientist Roles
+**Actively Seeking:** Data Analyst / Data Engineer Roles
 
 ---
 
@@ -34,10 +34,11 @@ I am actively expanding into Python and SQL to complement my BI work with scalab
 ![Power Pivot](https://img.shields.io/badge/Power_Pivot-2B579A?style=flat-square&logo=microsoft&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-### Languages & Libraries
+### Languages, Notebooks & Platforms
 
-[![Skills](https://skillicons.dev/icons?i=python,r,postgres,mysql,github,vscode)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python,java,jupyter,github,vscode)](https://skillicons.dev)
 
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square)
@@ -71,6 +72,14 @@ I am actively expanding into Python and SQL to complement my BI work with scalab
 
 ---
 
+## Certifications
+
+| Certification | Issuer | Badge |
+|---|---|---|
+| Java Foundations Associate (1Z0-811) | Oracle | ![Oracle](https://img.shields.io/badge/Oracle_Certified-F80000?style=flat-square&logo=oracle&logoColor=white) |
+
+---
+
 ## GitHub Stats
 
 <div align="center">
@@ -87,6 +96,8 @@ I am actively expanding into Python and SQL to complement my BI work with scalab
 
 <div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajdeep-ray-3616501b6/)
+&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/deadline_zeus/)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deadlineZeus)
