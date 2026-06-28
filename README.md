@@ -35,7 +35,6 @@ I hold an **Oracle Certified Java Foundations Associate (1Z0-811)** certificatio
 <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" height="48" alt="Google Colab" title="Google Colab" />&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/pandas/ffffff" height="48" alt="Pandas" title="Pandas" />&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/numpy/4DABCF" height="48" alt="NumPy" title="NumPy" />&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="48" alt="Scikit-Learn" title="Scikit-Learn" />&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/matplotlib/ffffff" height="48" alt="Matplotlib" title="Matplotlib" />
 
 ---
