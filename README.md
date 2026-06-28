@@ -71,27 +71,106 @@ I hold an **Oracle Certified Java Foundations Associate (1Z0-811)** certificatio
 
 ## Featured Projects
 
-### Data Analysis & Engineering
+### Data Engineering & SQL
 
-| **Vendor Inventory Management System** | **Fake PAN Card Detection** |
-|---|---|
-| `Power BI` &nbsp;·&nbsp; `DAX` &nbsp;·&nbsp; `Python` &nbsp;·&nbsp; `SQLite` &nbsp;·&nbsp; `Statistics` | `PostgreSQL` &nbsp;·&nbsp; `SQL` &nbsp;·&nbsp; `Regular Expressions` |
-| Consolidated 3.2 GB of multi-source CSV data into a unified vendor performance table using Python. Applied correlation analysis, outlier removal, and statistical hypothesis testing to identify pricing risks, vendor dependency, and slow-moving inventory. Delivered a Power BI dashboard and a comprehensive recommendations report for the strategy team. | Automated cleaning and validation of 10,000+ PAN records in PostgreSQL using Regular Expressions and custom SQL functions to enforce official format compliance. Generated detailed integrity reports and summary metrics for compliance monitoring and risk mitigation. |
-| [![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](#) | [![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](#) |
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| **Yelp Restaurant Success Analysis** | **Hospital Emergency Room Analysis** |
-|---|---|
-| `SQLite` &nbsp;·&nbsp; `Google Colab` &nbsp;·&nbsp; `Seaborn` &nbsp;·&nbsp; `Time Series` | `Microsoft Excel` &nbsp;·&nbsp; `Power Query` &nbsp;·&nbsp; `Power Pivot` |
-| Processed large Yelp datasets to analyse which user behaviours — reviews, check-ins, elite activity — most strongly drive restaurant ratings, visibility, and growth potential. Delivered business expansion recommendations through a professional data presentation with time series insights. | End-to-end analysis of emergency room data (2023–2024). Built a dynamic Excel dashboard tracking 8+ KPIs: patient volumes, wait times, satisfaction scores, department referrals, and on-time staff assignment rates, with slicer-driven filtering by year, month, and day. |
-| [![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](#) | [![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/deadlineZeus/Hospital-Emergency-Room-Analysis) |
+#### [Vendor Inventory Management System](#)
+
+`Power BI` · `DAX` · `Python` · `SQLite` · `Statistics`
+
+Consolidated **3.2 GB** of multi-source CSV data into a unified vendor performance table using Python. Applied correlation analysis, outlier removal, and statistical hypothesis testing to identify pricing risks, vendor dependency, and slow-moving inventory. Delivered a full Power BI dashboard and a comprehensive strategy report.
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white)](#)
+
+</td>
+<td width="50%" valign="top">
+
+#### [Fake PAN Card Detection for Compliance](#)
+
+`PostgreSQL` · `SQL` · `Regular Expressions` · `Custom Functions`
+
+Automated cleaning and validation of **10,000+** PAN records in PostgreSQL. Applied Regular Expressions and custom SQL functions to enforce official PAN format compliance, remove duplicates, and generate detailed integrity reports for compliance monitoring and risk mitigation.
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white)](#)
+
+</td>
+</tr>
+</table>
+
+### Data Analysis & Visualization
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### [Yelp Restaurant Success Analysis & Business Expansion](#)
+
+`SQLite` · `Google Colab` · `Seaborn` · `Time Series Analysis`
+
+Processed large Yelp datasets to analyse which user behaviours — reviews, check-ins, elite activity — most strongly drive restaurant ratings, visibility, and growth potential. Delivered a professional presentation with time series insights and business expansion recommendations.
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white)](#) &nbsp; [![Notebook](https://img.shields.io/badge/Colab-Notebook-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)](#)
+
+</td>
+<td width="50%" valign="top">
+
+#### [Hospital Emergency Room Analysis](https://github.com/deadlineZeus/Hospital-Emergency-Room-Analysis)
+
+`Microsoft Excel` · `Power Query` · `Power Pivot` · `Dynamic Slicers`
+
+End-to-end analysis of emergency room data (2023–2024). Built a dynamic Excel dashboard tracking **8+ KPIs**: patient volumes, wait times, satisfaction scores, department referrals, and on-time staff assignment rates, with slicer-driven filtering by year, month, and day.
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/deadlineZeus/Hospital-Emergency-Room-Analysis)
+
+</td>
+</tr>
+</table>
 
 ### Power BI Dashboards
 
-| **Mini Project 1 — Power BI** | **Sales Analysis — Power BI** | **EdTech Startups Analysis** |
-|---|---|---|
-| `Power BI` &nbsp;·&nbsp; `Power Query` &nbsp;·&nbsp; `DAX` | `Power BI` &nbsp;·&nbsp; `DAX` &nbsp;·&nbsp; `Data Modelling` | `Power BI` &nbsp;·&nbsp; `DAX` &nbsp;·&nbsp; `KPI Tracking` |
-| End-to-end Power BI dashboard covering data transformation, relational modelling, and visual KPI storytelling. | Interactive sales dashboard surfacing regional trends, category performance, and revenue KPIs. | Sector analysis of EdTech startup data: business performance, revenue insights, and growth trends. |
-| [![View](https://img.shields.io/badge/View-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/deadlineZeus/Mini_Project_1_Power_BI) | [![View](https://img.shields.io/badge/View-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/deadlineZeus/Sales_Analysis_on_Power_BI) | [![View](https://img.shields.io/badge/View-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/deadlineZeus/EdTech_StartUps_Analysis) |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### [Mini Project 1 — Power BI](https://github.com/deadlineZeus/Mini_Project_1_Power_BI)
+
+`Power BI` · `Power Query` · `DAX` · `Data Modelling`
+
+End-to-end Power BI dashboard covering data ingestion, transformation via Power Query, relational data modelling, and visual KPI storytelling with DAX measures.
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/deadlineZeus/Mini_Project_1_Power_BI)
+
+</td>
+<td width="50%" valign="top">
+
+#### [Sales Analysis — Power BI](https://github.com/deadlineZeus/Sales_Analysis_on_Power_BI)
+
+`Power BI` · `DAX` · `Data Modelling` · `KPI Tracking`
+
+Interactive sales analysis dashboard surfacing regional performance trends, category-level revenue breakdowns, and key business KPIs for data-driven decision-making.
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/deadlineZeus/Sales_Analysis_on_Power_BI)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### [EdTech Startups Analysis](https://github.com/deadlineZeus/EdTech_StartUps_Analysis)
+
+`Power BI` · `Power Query` · `DAX` · `KPI Tracking`
+
+Sector-focused analysis of EdTech startup data extracting KPIs around business performance, revenue insights, and growth trends — visualised through an interactive Power BI dashboard.
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/deadlineZeus/EdTech_StartUps_Analysis)
+
+</td>
+<td width="50%" valign="top"></td>
+</tr>
+</table>
 
 ---
 
