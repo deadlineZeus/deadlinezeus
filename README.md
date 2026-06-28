@@ -135,17 +135,6 @@ End-to-end analysis of emergency room data (2023–2024). Built a dynamic Excel 
 <tr>
 <td width="50%" valign="top">
 
-#### [Mini Project 1 — Power BI](https://github.com/deadlineZeus/Mini_Project_1_Power_BI)
-
-`Power BI` · `Power Query` · `DAX` · `Data Modelling`
-
-End-to-end Power BI dashboard covering data ingestion, transformation via Power Query, relational data modelling, and visual KPI storytelling with DAX measures.
-
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/deadlineZeus/Mini_Project_1_Power_BI)
-
-</td>
-<td width="50%" valign="top">
-
 #### [Sales Analysis — Power BI](https://github.com/deadlineZeus/Sales_Analysis_on_Power_BI)
 
 `Power BI` · `DAX` · `Data Modelling` · `KPI Tracking`
@@ -155,8 +144,6 @@ Interactive sales analysis dashboard surfacing regional performance trends, cate
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/deadlineZeus/Sales_Analysis_on_Power_BI)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 #### [EdTech Startups Analysis](https://github.com/deadlineZeus/EdTech_StartUps_Analysis)
@@ -168,7 +155,6 @@ Sector-focused analysis of EdTech startup data extracting KPIs around business p
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/deadlineZeus/EdTech_StartUps_Analysis)
 
 </td>
-<td width="50%" valign="top"></td>
 </tr>
 </table>
 
