@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=140&section=header&text=Rajdeep%20Ray&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00BCD4&center=true&vCenter=true&repeat=true&width=860&lines=Data+Analyst+%2F+Aspiring+Data+Engineer;Excel+%7C+Power+BI+%7C+Power+Query+%7C+DAX;Java+%7C+Python+%7C+Jupyter+%7C+Google+Colab;Turning+Raw+Data+into+Decisions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00BCD4&center=true&vCenter=true&repeat=true&width=860&lines=Data+Analyst+%2F+Aspiring+Data+Engineer;Power+BI+%7C+Excel+%7C+SQL+%7C+Python+%7C+Java;ETL+Pipelines+%7C+EDA+%7C+KPI+Dashboards;Turning+Raw+Data+into+Actionable+Decisions)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,17 +10,11 @@
 
 ## About Me
 
-I am a **Data Analyst and Aspiring Data Engineer** focused on transforming raw, unstructured datasets into structured, decision-ready insights. My core expertise spans end-to-end analytical pipelines — from data ingestion and transformation with **Power Query**, to relational modelling in **Power Pivot**, and interactive dashboard development in both **Microsoft Excel** and **Power BI**.
+I am a **Data Analyst and Aspiring Data Engineer** with hands-on professional experience building end-to-end analytical pipelines, ETL workflows, and BI dashboards across multiple domains. My work spans data ingestion, transformation, modelling, and visualization using **Power BI**, **Excel**, **Python**, and **SQL**, with a track record of delivering production-level solutions in fast-paced, client-facing environments.
 
-I hold an **Oracle Certified Java Foundations Associate (1Z0-811)** certification and am actively expanding into Python and SQL to complement my BI work with scalable, programmatic workflows.
+I hold an **Oracle Certified Java Foundations Associate (1Z0-811)** certification and am continuously deepening my expertise in data engineering fundamentals.
 
-**Currently Working On:**
-
-- Power BI dashboards with DAX measures, data modelling, and KPI storytelling
-- Sales and sector-specific analysis (EdTech, retail, healthcare)
-- Strengthening Python and data engineering fundamentals
-
-**Actively Seeking:** Data Analyst / Data Engineer Roles
+**Currently Seeking:** Data Analyst / Data Engineer Roles
 
 ---
 
@@ -33,50 +27,93 @@ I hold an **Oracle Certified Java Foundations Associate (1Z0-811)** certificatio
 ![Power Query](https://img.shields.io/badge/Power_Query-217346?style=flat-square&logo=microsoft&logoColor=white)
 ![Power Pivot](https://img.shields.io/badge/Power_Pivot-2B579A?style=flat-square&logo=microsoft&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
 
-### Languages, Notebooks & Platforms
+### Languages, Databases & Platforms
 
-[![Skills](https://skillicons.dev/icons?i=python,java,jupyter,github,vscode)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python,java,postgresql,mysql,sqlite,jupyter,github,vscode)](https://skillicons.dev)
 
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
 
 ---
 
+## Work Experience
+
+### Data Analyst &nbsp;|&nbsp; OWOX &nbsp;·&nbsp; Remote
+**Nov 2025 – Mar 2026**
+
+- Delivered publishable documentation and content validation for the OWOX Data Mart product; demonstrated product utility to end users and validated technical articles explaining the advantages of Data Marts over raw tables.
+- Ran custom SQL queries to pipe API data into OWOX Data Marts; corrected UI bugs and authored SEO-optimised articles for the Marketing team.
+
+---
+
+### Microsoft Technical Support Executive &nbsp;|&nbsp; Teleperformance, Jaipur
+**Jan 2025 – Oct 2025**
+
+- Delivered technical support for Microsoft 365, Office apps, Outlook, and Windows OS to global clients via voice and chat, improving resolution efficiency by **20–25%** and reducing client downtime.
+- Maintained a customer satisfaction rating of **4.28**; resolved complex configuration issues across diverse client environments in collaboration with senior teams.
+
+---
+
+### Junior Data Analyst &nbsp;|&nbsp; Audax Labs, Kolkata
+**Dec 2023 – Jan 2025**
+
+- Built automated SQL queries and ETL pipelines, reducing manual data preparation effort by **40%**.
+- Developed Power BI and Excel dashboards for KPI tracking, cutting reporting turnaround time by **30%**.
+- Conducted EDA using Python (Pandas, NumPy, Matplotlib) across multiple datasets, achieving **95%+** data accuracy in delivered reports.
+
+---
+
 ## Featured Projects
+
+### Data Analysis & Engineering
+
+| **Vendor Inventory Management System** | **Fake PAN Card Detection** |
+|---|---|
+| `Power BI` &nbsp;·&nbsp; `DAX` &nbsp;·&nbsp; `Python` &nbsp;·&nbsp; `SQLite` &nbsp;·&nbsp; `Statistics` | `PostgreSQL` &nbsp;·&nbsp; `SQL` &nbsp;·&nbsp; `Regular Expressions` |
+| Consolidated 3.2 GB of multi-source CSV data into a unified vendor performance table using Python. Applied correlation analysis, outlier removal, and statistical hypothesis testing to identify pricing risks, vendor dependency, and slow-moving inventory. Delivered a Power BI dashboard and a comprehensive recommendations report for the strategy team. | Automated cleaning and validation of 10,000+ PAN records in PostgreSQL using Regular Expressions and custom SQL functions to enforce official format compliance. Generated detailed integrity reports and summary metrics for compliance monitoring and risk mitigation. |
+| [![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](#) | [![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](#) |
+
+| **Yelp Restaurant Success Analysis** | **Hospital Emergency Room Analysis** |
+|---|---|
+| `SQLite` &nbsp;·&nbsp; `Google Colab` &nbsp;·&nbsp; `Seaborn` &nbsp;·&nbsp; `Time Series` | `Microsoft Excel` &nbsp;·&nbsp; `Power Query` &nbsp;·&nbsp; `Power Pivot` |
+| Processed large Yelp datasets to analyse which user behaviours — reviews, check-ins, elite activity — most strongly drive restaurant ratings, visibility, and growth potential. Delivered business expansion recommendations through a professional data presentation with time series insights. | End-to-end analysis of emergency room data (2023–2024). Built a dynamic Excel dashboard tracking 8+ KPIs: patient volumes, wait times, satisfaction scores, department referrals, and on-time staff assignment rates, with slicer-driven filtering by year, month, and day. |
+| [![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](#) | [![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/deadlineZeus/Hospital-Emergency-Room-Analysis) |
 
 ### Power BI Dashboards
 
-| **Mini Project 1 — Power BI** | **Sales Analysis — Power BI** |
-|---|---|
-| `Power BI` &nbsp;·&nbsp; `Power Query` &nbsp;·&nbsp; `DAX` | `Power BI` &nbsp;·&nbsp; `DAX` &nbsp;·&nbsp; `Data Modelling` |
-| An end-to-end Power BI dashboard project covering data transformation, relational modelling, and visual storytelling across key business metrics. | Interactive sales analysis dashboard built in Power BI, surfacing trends, regional performance, and revenue KPIs for data-driven decision-making. |
-| [![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/deadlineZeus/Mini_Project_1_Power_BI) | [![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/deadlineZeus/Sales_Analysis_on_Power_BI) |
+| **Mini Project 1 — Power BI** | **Sales Analysis — Power BI** | **EdTech Startups Analysis** |
+|---|---|---|
+| `Power BI` &nbsp;·&nbsp; `Power Query` &nbsp;·&nbsp; `DAX` | `Power BI` &nbsp;·&nbsp; `DAX` &nbsp;·&nbsp; `Data Modelling` | `Power BI` &nbsp;·&nbsp; `DAX` &nbsp;·&nbsp; `KPI Tracking` |
+| End-to-end Power BI dashboard covering data transformation, relational modelling, and visual KPI storytelling. | Interactive sales dashboard surfacing regional trends, category performance, and revenue KPIs. | Sector analysis of EdTech startup data: business performance, revenue insights, and growth trends. |
+| [![View](https://img.shields.io/badge/View-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/deadlineZeus/Mini_Project_1_Power_BI) | [![View](https://img.shields.io/badge/View-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/deadlineZeus/Sales_Analysis_on_Power_BI) | [![View](https://img.shields.io/badge/View-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/deadlineZeus/EdTech_StartUps_Analysis) |
 
-| **EdTech Startups Analysis** |
-|---|
-| `Power BI` &nbsp;·&nbsp; `Power Query` &nbsp;·&nbsp; `DAX` &nbsp;·&nbsp; `KPI Tracking` |
-| Sector-focused analysis of EdTech startup data, extracting KPIs around business performance, revenue insights, and growth trends using Power BI dashboards. |
-| [![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/deadlineZeus/EdTech_StartUps_Analysis) |
+---
 
-### Excel Analytics
+## Education
 
-| **Hospital Emergency Room Analysis** |
-|---|
-| `Microsoft Excel` &nbsp;·&nbsp; `Power Query` &nbsp;·&nbsp; `Power Pivot` &nbsp;·&nbsp; `Pivot Tables` &nbsp;·&nbsp; `Dynamic Slicers` |
-| An end-to-end analysis of hospital emergency room data spanning 2023–2024. Built a fully dynamic Excel dashboard with slicers for year, month, and day filtering. Extracted 8+ KPIs including daily patient volumes, average wait times, satisfaction scores, department-wise referral distribution, gender breakdowns, and on-time vs. delayed staff assignment rates. |
-| [![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/deadlineZeus/Hospital-Emergency-Room-Analysis) |
+<div align="center">
+
+**B.Tech in Information Technology** &nbsp;—&nbsp; IEM (Institute of Engineering & Management), Kolkata
+
+**Aug 2019 – May 2023**
+
+*Coursework: Data Structures, Algorithms, Database Management Systems, Operating Systems, Computer Networks, Software Engineering*
+
+</div>
 
 ---
 
 ## Certifications
 
-| Certification | Issuer | Badge |
+| Certification | Issuer | Verify |
 |---|---|---|
-| Java Foundations Associate (1Z0-811) | Oracle | ![Oracle](https://img.shields.io/badge/Oracle_Certified-F80000?style=flat-square&logo=oracle&logoColor=white) |
+| Java Foundations Associate (1Z0-811) | Oracle | [![View Certificate](https://img.shields.io/badge/View_Certificate-F80000?style=flat-square&logo=oracle&logoColor=white)](https://drive.google.com/file/d/1-dkO3ya18-94aLXmfJ1V5l9SJXjLSaur/view?usp=drive_link) |
 
 ---
 
@@ -88,6 +125,8 @@ I hold an **Oracle Certified Java Foundations Associate (1Z0-811)** certificatio
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deadlineZeus&theme=dark&background=0d1117&ring=00BCD4&fire=00BCD4&currStreakLabel=ffffff&hide_border=true)
 
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deadlineZeus&theme=github_dark)
+
 </div>
 
 ---
@@ -96,11 +135,13 @@ I hold an **Oracle Certified Java Foundations Associate (1Z0-811)** certificatio
 
 <div align="center">
 
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deadlinezeus@zohomail.in)
+&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajdeep-ray-3616501b6/)
 &nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/deadline_zeus/)
-&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deadlineZeus)
+&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/deadline_zeus/)
 
 </div>
 
