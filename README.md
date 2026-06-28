@@ -22,21 +22,22 @@ I hold an **Oracle Certified Java Foundations Associate (1Z0-811)** certificatio
 
 ### Business Intelligence & Data Analysis
 
-<img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="48" alt="Microsoft Excel" title="Microsoft Excel" />&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/powerbi/F2C811" height="48" alt="Power BI" title="Power BI" />&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/googlesheets/34A853" height="48" alt="Google Sheets" title="Google Sheets" />
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
 
 ### Languages, Databases & Platforms
 
-[![Skills](https://skillicons.dev/icons?i=python,java,postgresql,mysql,sqlite,jupyter,github,vscode)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python,java,postgresql,mysql,sqlite,github,vscode)](https://skillicons.dev)
 
 ### Libraries & Frameworks
 
-<img src="https://cdn.simpleicons.org/googlecolab/F9AB00" height="48" alt="Google Colab" title="Google Colab" />&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/pandas/ffffff" height="48" alt="Pandas" title="Pandas" />&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/numpy/4DABCF" height="48" alt="NumPy" title="NumPy" />&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=sklearn" height="48" alt="Scikit-Learn" title="Scikit-Learn" />&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/matplotlib/ffffff" height="48" alt="Matplotlib" title="Matplotlib" />
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=matplotlib&logoColor=white)
 
 ---
 
