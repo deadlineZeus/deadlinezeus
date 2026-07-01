@@ -164,4 +164,4 @@ Sector-focused analysis of EdTech startup data extracting KPIs around business p
 
 | Certification | Issuer | Verify |
 |---|---|---|
-| Java Foundations Associate (1Z0-811) | Oracle | [![View Certificate](https://drive.google.com/file/d/1-dkO3ya18-94aLXmfJ1V5l9SJXjLSaur/view?usp=drive_link)](#) |
+| Java Foundations Associate (1Z0-811) | Oracle | [![View Certificate](https://drive.google.com/file/d/1-dkO3ya18-94aLXmfJ1V5l9SJXjLSaur/view?usp=drive_link )](#) |
