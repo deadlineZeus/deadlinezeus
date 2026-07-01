@@ -124,30 +124,34 @@ End-to-end analysis of emergency room data (2023–2024). Built a dynamic Excel 
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/deadlineZeus/Hospital-Emergency-Room-Analysis)
 
+</td>
+</tr>
+</table>
+
 ### Power BI Dashboards
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### [Retail Sales Performance & Data Pipeline](https://github.com/deadlineZeus/Retail_Sales_Analysis_Power_BI)
+#### [Sales Analysis — Power BI](https://github.com/deadlineZeus/Sales_Analysis_on_Power_BI)
 
-`Power BI` · `PostgreSQL` · `Power Query (M)` · `DAX` · `Data Modeling`
+`Power BI` · `DAX` · `Data Modelling` · `KPI Tracking`
 
-An end-to-end BI solution features a refresh-resilient data pipeline consolidating PostgreSQL, web-scraped tables, and local flat files. Built a production-grade star/snowflake schema tracking \$126M+ across 3 European markets with custom DAX time-intelligence metrics.
+Interactive sales analysis dashboard surfacing regional performance trends, category-level revenue breakdowns, and key business KPIs for data-driven decision-making.
 
-[![GitHub Repo](https://shields.io)](https://github.com/deadlineZeus/Retail_Sales_Analysis_Power_BI)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/deadlineZeus/Sales_Analysis_on_Power_BI)
 
 </td>
 <td width="50%" valign="top">
 
-#### [EdTech Startups Performance Analysis](https://github.com/deadlineZeus/EdTech_StartUps_Analysis_Power_BI)
+#### [EdTech Startups Analysis](https://github.com/deadlineZeus/EdTech_StartUps_Analysis)
 
-`Power BI` · `Power Query` · `DAX` · `KPI Tracking` · `Data Cleansing`
+`Power BI` · `Power Query` · `DAX` · `KPI Tracking`
 
-Sector-focused analysis of EdTech startup data extracting KPIs around business performance, funding rounds, revenue insights, and growth trends—visualized through an interactive Power BI dashboard.
+Sector-focused analysis of EdTech startup data extracting KPIs around business performance, revenue insights, and growth trends — visualised through an interactive Power BI dashboard.
 
-[![GitHub Repo](https://shields.io)](https://github.com/deadlineZeus/EdTech_StartUps_Analysis_Power_BI)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/deadlineZeus/EdTech_StartUps_Analysis)
 
 </td>
 </tr>
@@ -173,38 +177,4 @@ Sector-focused analysis of EdTech startup data extracting KPIs around business p
 
 | Certification | Issuer | Verify |
 |---|---|---|
-| Java Foundations Associate (1Z0-811) | Oracle | [![View Certificate](https://img.shields.io/badge/View_Certificate-F80000?style=flat-square&logo=oracle&logoColor=white)](https://drive.google.com/file/d/1-dkO3ya18-94aLXmfJ1V5l9SJXjLSaur/view?usp=drive_link) |
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=deadlineZeus&show_icons=true&theme=dark&bg_color=0d1117&title_color=00BCD4&text_color=ffffff&icon_color=00BCD4&hide_border=true)&nbsp;&nbsp;![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=deadlineZeus&layout=compact&theme=dark&bg_color=0d1117&title_color=00BCD4&text_color=ffffff&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deadlineZeus&theme=dark&background=0d1117&ring=00BCD4&fire=00BCD4&currStreakLabel=ffffff&hide_border=true)
-
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deadlineZeus&theme=github_dark)
-
-</div>
-
----
-
-## Connect
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deadlinezeus@zohomail.in)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajdeep-ray-3616501b6/)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deadlineZeus)
-&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/deadline_zeus/)
-
-</div>
-
-<br/>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=80&section=footer)
+| Java Foundations Associate (1Z0-811) | Oracle | [![View Certificate](https://img.shields.io/badge/View_C
