@@ -124,34 +124,30 @@ End-to-end analysis of emergency room data (2023–2024). Built a dynamic Excel 
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/deadlineZeus/Hospital-Emergency-Room-Analysis)
 
-</td>
-</tr>
-</table>
-
 ### Power BI Dashboards
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### [Sales Analysis — Power BI](https://github.com/deadlineZeus/Sales_Analysis_on_Power_BI)
+#### [Retail Sales Performance & Data Pipeline](https://github.com/deadlineZeus/Retail_Sales_Analysis_Power_BI)
 
-`Power BI` · `DAX` · `Data Modelling` · `KPI Tracking`
+`Power BI` · `PostgreSQL` · `Power Query (M)` · `DAX` · `Data Modeling`
 
-Interactive sales analysis dashboard surfacing regional performance trends, category-level revenue breakdowns, and key business KPIs for data-driven decision-making.
+An end-to-end BI solution features a refresh-resilient data pipeline consolidating PostgreSQL, web-scraped tables, and local flat files. Built a production-grade star/snowflake schema tracking \$126M+ across 3 European markets with custom DAX time-intelligence metrics.
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/deadlineZeus/Sales_Analysis_on_Power_BI)
+[![GitHub Repo](https://shields.io)](https://github.com/deadlineZeus/Retail_Sales_Analysis_Power_BI)
 
 </td>
 <td width="50%" valign="top">
 
-#### [EdTech Startups Analysis](https://github.com/deadlineZeus/EdTech_StartUps_Analysis)
+#### [EdTech Startups Performance Analysis](https://github.com/deadlineZeus/EdTech_StartUps_Analysis_Power_BI)
 
-`Power BI` · `Power Query` · `DAX` · `KPI Tracking`
+`Power BI` · `Power Query` · `DAX` · `KPI Tracking` · `Data Cleansing`
 
-Sector-focused analysis of EdTech startup data extracting KPIs around business performance, revenue insights, and growth trends — visualised through an interactive Power BI dashboard.
+Sector-focused analysis of EdTech startup data extracting KPIs around business performance, funding rounds, revenue insights, and growth trends—visualized through an interactive Power BI dashboard.
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/deadlineZeus/EdTech_StartUps_Analysis)
+[![GitHub Repo](https://shields.io)](https://github.com/deadlineZeus/EdTech_StartUps_Analysis_Power_BI)
 
 </td>
 </tr>
