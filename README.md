@@ -21,17 +21,14 @@ I hold an **Oracle Certified Java Foundations Associate (1Z0-811)** certificatio
 ## Tools & Technologies
 
 ### Business Intelligence & Data Analysis
-
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
 
 ### Languages, Databases & Platforms
-
 [![Skills](https://skillicons.dev/icons?i=python,java,postgresql,mysql,sqlite,github,vscode)](https://skillicons.dev)
 
 ### Libraries & Frameworks
-
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
@@ -45,7 +42,6 @@ I hold an **Oracle Certified Java Foundations Associate (1Z0-811)** certificatio
 
 ### Data Analyst &nbsp;|&nbsp; OWOX &nbsp;·&nbsp; Remote
 **Nov 2025 – Mar 2026**
-
 - Delivered publishable documentation and content validation for the OWOX Data Mart product; demonstrated product utility to end users and validated technical articles explaining the advantages of Data Marts over raw tables.
 - Ran custom SQL queries to pipe API data into OWOX Data Marts; corrected UI bugs and authored SEO-optimised articles for the Marketing team.
 
@@ -53,7 +49,6 @@ I hold an **Oracle Certified Java Foundations Associate (1Z0-811)** certificatio
 
 ### Microsoft Technical Support Executive &nbsp;|&nbsp; Teleperformance, Jaipur
 **Jan 2025 – Oct 2025**
-
 - Delivered technical support for Microsoft 365, Office apps, Outlook, and Windows OS to global clients via voice and chat, improving resolution efficiency by **20–25%** and reducing client downtime.
 - Maintained a customer satisfaction rating of **4.28**; resolved complex configuration issues across diverse client environments in collaboration with senior teams.
 
@@ -61,7 +56,6 @@ I hold an **Oracle Certified Java Foundations Associate (1Z0-811)** certificatio
 
 ### Junior Data Analyst &nbsp;|&nbsp; Audax Labs, Kolkata
 **Dec 2023 – Jan 2025**
-
 - Built automated SQL queries and ETL pipelines, reducing manual data preparation effort by **40%**.
 - Developed Power BI and Excel dashboards for KPI tracking, cutting reporting turnaround time by **30%**.
 - Conducted EDA using Python (Pandas, NumPy, Matplotlib) across multiple datasets, achieving **95%+** data accuracy in delivered reports.
@@ -77,7 +71,6 @@ I hold an **Oracle Certified Java Foundations Associate (1Z0-811)** certificatio
 <td width="50%" valign="top">
 
 #### [Vendor Inventory Management System](#)
-
 `Power BI` · `DAX` · `Python` · `SQLite` · `Statistics`
 
 Consolidated **3.2 GB** of multi-source CSV data into a unified vendor performance table using Python. Applied correlation analysis, outlier removal, and statistical hypothesis testing to identify pricing risks, vendor dependency, and slow-moving inventory. Delivered a full Power BI dashboard and a comprehensive strategy report.
@@ -88,7 +81,6 @@ Consolidated **3.2 GB** of multi-source CSV data into a unified vendor performan
 <td width="50%" valign="top">
 
 #### [Fake PAN Card Detection for Compliance](#)
-
 `PostgreSQL` · `SQL` · `Regular Expressions` · `Custom Functions`
 
 Automated cleaning and validation of **10,000+** PAN records in PostgreSQL. Applied Regular Expressions and custom SQL functions to enforce official PAN format compliance, remove duplicates, and generate detailed integrity reports for compliance monitoring and risk mitigation.
@@ -106,7 +98,6 @@ Automated cleaning and validation of **10,000+** PAN records in PostgreSQL. Appl
 <td width="50%" valign="top">
 
 #### [Yelp Restaurant Success Analysis & Business Expansion](#)
-
 `SQLite` · `Google Colab` · `Seaborn` · `Time Series Analysis`
 
 Processed large Yelp datasets to analyse which user behaviours — reviews, check-ins, elite activity — most strongly drive restaurant ratings, visibility, and growth potential. Delivered a professional presentation with time series insights and business expansion recommendations.
@@ -117,7 +108,6 @@ Processed large Yelp datasets to analyse which user behaviours — reviews, chec
 <td width="50%" valign="top">
 
 #### [Hospital Emergency Room Analysis](https://github.com/deadlineZeus/Hospital-Emergency-Room-Analysis)
-
 `Microsoft Excel` · `Power Query` · `Power Pivot` · `Dynamic Slicers`
 
 End-to-end analysis of emergency room data (2023–2024). Built a dynamic Excel dashboard tracking **8+ KPIs**: patient volumes, wait times, satisfaction scores, department referrals, and on-time staff assignment rates, with slicer-driven filtering by year, month, and day.
@@ -134,24 +124,22 @@ End-to-end analysis of emergency room data (2023–2024). Built a dynamic Excel 
 <tr>
 <td width="50%" valign="top">
 
-#### [Sales Analysis — Power BI](https://github.com/deadlineZeus/Sales_Analysis_on_Power_BI)
-
+#### [Retail Sales Analysis — Power BI](https://github.com/deadlineZeus/Retail_Sales_Analysis_Power_BI)
 `Power BI` · `DAX` · `Data Modelling` · `KPI Tracking`
 
-Interactive sales analysis dashboard surfacing regional performance trends, category-level revenue breakdowns, and key business KPIs for data-driven decision-making.
+Interactive retail sales analysis dashboard surfacing regional performance trends, category-level revenue breakdowns, and key business KPIs for data-driven decision-making.
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/deadlineZeus/Sales_Analysis_on_Power_BI)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/deadlineZeus/Retail_Sales_Analysis_Power_BI)
 
 </td>
 <td width="50%" valign="top">
 
-#### [EdTech Startups Analysis](https://github.com/deadlineZeus/EdTech_StartUps_Analysis)
-
+#### [EdTech Startups Analysis — Power BI](https://github.com/deadlineZeus/EdTech_StartUps_Analysis_Power_BI)
 `Power BI` · `Power Query` · `DAX` · `KPI Tracking`
 
 Sector-focused analysis of EdTech startup data extracting KPIs around business performance, revenue insights, and growth trends — visualised through an interactive Power BI dashboard.
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/deadlineZeus/EdTech_StartUps_Analysis)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/deadlineZeus/EdTech_StartUps_Analysis_Power_BI)
 
 </td>
 </tr>
@@ -164,7 +152,6 @@ Sector-focused analysis of EdTech startup data extracting KPIs around business p
 <div align="center">
 
 **B.Tech in Information Technology** &nbsp;—&nbsp; IEM (Institute of Engineering & Management), Kolkata
-
 **Aug 2019 – May 2023**
 
 *Coursework: Data Structures, Algorithms, Database Management Systems, Operating Systems, Computer Networks, Software Engineering*
@@ -177,4 +164,4 @@ Sector-focused analysis of EdTech startup data extracting KPIs around business p
 
 | Certification | Issuer | Verify |
 |---|---|---|
-| Java Foundations Associate (1Z0-811) | Oracle | [![View Certificate](https://img.shields.io/badge/View_C
+| Java Foundations Associate (1Z0-811) | Oracle | [![View Certificate](https://img.shields.io/badge/View_Certificate-C74634?style=flat-square&logo=oracle&logoColor=white)](#) |
